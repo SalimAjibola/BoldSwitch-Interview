@@ -20,4 +20,4 @@ This is a simple React app that allows users to:
 1. **Clone this repository:**
 
 ```bash
-
+https://github.com/SalimAjibola/BoldSwitch-Interview.git
